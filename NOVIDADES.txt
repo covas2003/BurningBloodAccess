@@ -1,0 +1,48 @@
+﻿NOVIDADES - ONE PIECE BURNING BLOOD Acessível
+=============================================
+Aqui fica o que muda em cada versão do mod. A mais recente fica em cima.
+
+
+VERSÃO 1.0 (novembro de 2026) - primeira versão pública
+--------------------------------------------------------
+Instalação e atualizações
+- Um só instalador leva tudo o que é preciso: o mod, os sons, a
+  biblioteca do NVDA, o manual e estas novidades. Encontra o jogo
+  sozinho e cria o atalho "ONE PIECE BURNING BLOOD Acessível" no
+  Ambiente de trabalho e no menu Iniciar.
+- Atualizações automáticas: ao abrir o jogo pelo atalho, o mod vê se há
+  uma versão nova e pergunta se quer atualizar. Não é preciso
+  descarregar nem instalar outra vez. As escolhas e os sons que mudou
+  ficam guardados. No menu Iniciar há também "Procurar atualizações do
+  mod acessível".
+- Os sons do mod ficam na pasta BurningBloodAccess_Sons, dentro da
+  pasta do jogo. Pode trocá-los pelos seus; as atualizações não mexem
+  nos sons que mudar. Os originais ficam na pasta "originais".
+  O clique da localização sonora também passou a ser um ficheiro que
+  pode trocar (localizacao_clique.wav).
+- Manual completo (LEIA-ME.txt) e estas novidades, também no menu Iniciar.
+- O registo do que acontece no jogo chama-se BurningBloodAccess_registo.log
+  e o da vez anterior fica guardado em BurningBloodAccess_registo_anterior.log.
+
+O que o mod faz nesta versão
+- Menus: menu principal com as descrições do jogo, Procurados (listas e
+  cartazes com nome, condição e personagens permitidas), Batalha Livre e
+  regras, escolha de personagens de luta e de apoio, escolha do cenário
+  e da música (L1 e R1), Coleção, Base Pirata (berries, preços e o que
+  já tem), Criar tripulação pirata (explicação dos botões), Opções do
+  jogo e perguntas Sim ou Não. Cada opção nova cala a anterior, sem
+  atrasos.
+- Lutas: vida e barras a pedido (botão Share, F5 e F6), avisos falados
+  da vida, das trocas de personagem e das barras, sons de aviso,
+  localização sonora do adversário, lista de golpes (F1, F2 e F3 e na
+  pausa), legendas das falas a meio da luta, falas sem baixar os sons
+  da luta, e "Vitória" ou "Derrota" no fim.
+- Modo História: o mod leva o cursor do mapa até ao capítulo escolhido
+  (botão Share ou Page Down e Page Up), diz o estado e as condições de
+  cada capítulo, os capítulos especiais fechados, o resumo antes da luta,
+  as legendas das cenas, o resultado, a experiência, as personagens novas
+  e a lista de personagens da tripulação (Quadrado).
+- Dicas do ecrã de carregamento antes das lutas.
+- Online (ainda incompleto): menus, Partida Ranqueada e Amistosa, salas.
+- Menu Acessibilidade nas Opções do jogo (Triângulo ou F10) para ligar,
+  desligar e ajustar os avisos e os sons.

@@ -1,0 +1,6 @@
+# ONE PIECE BURNING BLOOD Acessivel: ultima versao publicada (o lancador le este ficheiro)
+versao=1.0
+ficheiro=https://raw.githubusercontent.com/covas2003/BurningBloodAccess/main/versoes/1.0/Instalar_BurningBloodAccess.exe
+sha256=92a720ab691139b870b315118953e82a2b3a4f16e82bcf239b35bd6bb07976d9
+tamanho=1376256
+novidades=Primeira versão pública: instalador completo, pasta de sons que pode trocar e atualizações automáticas.
