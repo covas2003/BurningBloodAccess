@@ -6,7 +6,9 @@ O mod lê em voz alta, pelo NVDA, os menus, os ecrãs e as lutas do jogo, e toca
 
 ## Descarregar
 
-**[Descarregar a versão mais recente](https://github.com/covas2003/BurningBloodAccess/releases/latest)**: na página que abre, escolha o ficheiro `BurningBloodAccess_<versão>.zip`.
+**[Descarregar a versão 1.0 (BurningBloodAccess_1.0.zip)](https://github.com/covas2003/BurningBloodAccess/raw/main/versoes/1.0/BurningBloodAccess_1.0.zip)**
+
+O que mudou em cada versão está no ficheiro [NOVIDADES.txt](NOVIDADES.txt).
 
 ## Instalar
 
